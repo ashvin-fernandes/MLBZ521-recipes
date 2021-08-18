@@ -9,7 +9,7 @@ You must provide a Client ID and Secret along with the Policy ID to determine wh
 
 You must also specify a LICENSE_ID in order to license the Sensor post install. postinstall script based on https://github.com/autopkg/MLBZ521-recipes/blob/master/CrowdStrike%20Falcon/CrowdStrike%20Falcon.pkg.recipe</string>
     <key>Identifier</key>
-    <string>com.github.apizz.munki.CrowdStrikeFalcon</string>
+    <string>com.github.MLBZ521.munki.CrowdStrikeFalcon</string>
     <key>Input</key>
     <dict>
         <key>CLIENT_ID</key>
